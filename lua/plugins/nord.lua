@@ -1,6 +1,6 @@
 return {
   -- add nord colorscheme
-  { "arcticicestudio/nord-vim" },
+  { "shaunsingh/nord.nvim" },
 
   -- Configure LazyVim to load gruvbox
   {
